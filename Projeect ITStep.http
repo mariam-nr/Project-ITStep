@@ -1,0 +1,6 @@
+@Projeect_ITStep_HostAddress = http://localhost:5089
+
+GET {{Projeect_ITStep_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
